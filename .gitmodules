@@ -1,0 +1,36 @@
+[submodule "FuzzyVM"]
+	path = FuzzyVM
+	url = git@github.com:radkomih/FuzzyVM.git
+[submodule "goevmlab"]
+	path = goevmlab
+	url = git@github.com:radkomih/goevmlab.git
+[submodule "tx-fuzz"]
+	path = tx-fuzz
+	url = git@github.com:radkomih/tx-fuzz.git
+[submodule "hive"]
+	path = hive
+	url = git@github.com:radkomih/hive.git
+[submodule "go-ethereum"]
+	path = go-ethereum
+	url = git@github.com:radkomih/go-ethereum.git
+[submodule "erigon"]
+	path = erigon
+	url = git@github.com:radkomih/erigon.git
+[submodule "reth"]
+	path = reth
+	url = git@github.com:radkomih/reth.git
+[submodule "nethermind"]
+	path = nethermind
+	url = git@github.com:radkomih/nethermind.git
+[submodule "besu"]
+	path = besu
+	url = git@github.com:radkomih/besu.git
+[submodule "tests"]
+	path = tests
+	url = git@github.com:radkomih/tests.git
+[submodule "retesteth"]
+	path = retesteth
+	url = git@github.com:radkomih/retesteth.git
+[submodule "revm"]
+	path = revm
+	url = git@github.com:radkomih/revm.git
